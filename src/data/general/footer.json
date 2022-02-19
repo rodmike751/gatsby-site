@@ -1,0 +1,54 @@
+{
+    "id": "footer-data",
+    "section": "footer",
+    "footer": [
+        {
+            "id": "footer-1",
+            "text": "It long estabhed fact that reader will ditracted the readable content looking using readable.",
+            "socials": [
+                {
+                    "id": 1,
+                    "icon": "icofont-facebook",
+                    "link": "https://web.facebook.com/rixrodgh?_rdc=1&_rdr",
+                    "title": "facebook"
+                },
+                {
+                    "id": 2,
+                    "icon": "icofont-whatsapp",
+                    "link": "https://wa.me/message/Y3FKLUEIJNZPK1",
+                    "title": "whatsapp"
+                },
+                {
+                    "id": 3,
+                    "icon": "icofont-instagram",
+                    "link": "https://www.instagram.com/rixrod__/?hl=en",
+                    "title": "instagram"
+                },
+                {
+                    "id": 4,
+                    "icon": "icofont-linkedin",
+                    "link": "https://www.linkedin.com/company/rixrod-company-limited/",
+                    "title": "linkedin"
+                }
+            ]
+        },
+        {
+            "id": "footer-2",
+            "title": "CONTACT",
+            "contact_info": [
+                {
+                    "id": "contact_info-21",
+                    "title": "Location",
+                    "text": "Accra"
+                },
+                {
+                    "id": "contact_info-22",
+                    "title": "Phone",
+                    "text": "0302 500 873"
+                }
+            ]
+        }
+       
+      
+    ]
+}

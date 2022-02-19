@@ -1,0 +1,38 @@
+{
+    "id": "menu-data",
+    "section": "menu",
+    "menu": [
+        {
+            "id": "menu-1",
+            "text": "Home",
+            "link": "/"
+        },
+       
+        {
+            "id": "menu-3",
+            "text": "Shop",
+            "link": "/"
+            
+        },
+        {
+            "id": "menu-4",
+            "text": "Inventory",
+            "link": "/"
+        },
+        {
+            "id": "menu-5",
+            "text": "Marketplace",
+            "link": "/"
+        },
+        {
+            "id": "menu-6",
+            "text": "FAQ",
+            "link": "/faq"
+        },
+        {
+            "id": "menu-7",
+            "text": "Connect Wallet",
+            "link": "/"
+        }
+    ]
+}

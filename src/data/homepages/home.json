@@ -1,0 +1,167 @@
+{
+    "title": "home",
+    "pageType": "homepage",
+    "content": [
+        {
+            "id": "hero-section-content",
+            "section": "hero-section",
+            "headings": [
+                {
+                    "level": "h1",
+                    "content": "BEST 3D ANIMATED GAME TODAY"
+                }
+            ],
+            "texts": [
+                {
+                    "content": "Simply text of the printing and typesetting industry."
+                }
+            ],
+            "buttons": [
+                {
+                    "id": 1,
+                    "size": "lg",
+                    "path": "/contact-us",
+                    "content": "Play Now"
+                }
+            ]
+        },
+
+        {
+            "id": "home-testimonial-section",
+            "section": "testimonial-section",
+            "section_title": {
+                "showDescription": false,
+                "align": "left",
+                "heading": "WHAT PEOPLE’S SAY ABOUT GAME STUDIO",
+                "description": "When unknown printer took type and scrambled it to make type specimen book centuries,"
+            },
+            "items": [
+                {
+                    "id": "testimonial-01",
+                    "images": [
+                        {
+                            "src": "../../data/images/testimonial/testimonial-thumb.webp",
+                            "alt": "Panda"
+                        }
+                    ],
+                    "name": "Randolph Frazier",
+                    "designation": "Top Rated Gamer",
+                    "description": "Lorem long established fact that a reader will be distracted the readable content of page when looking at it layout the point using lorem Ipsum is that it has a more-or-less normal distribution lette as opposed to using  making it look like readable english, many desktop publishing packages and web page now editors."
+                },
+                {
+                    "id": "testimonial-02",
+                    "images": [
+                        {
+                            "src": "../../data/images/testimonial/testimonial-thumb.webp",
+                            "alt": "Panda"
+                        }
+                    ],
+                    "name": "Johan Puker",
+                    "designation": "Top Rated Gamer",
+                    "description": "It is a long established fact that a reader will be distracted the readable content of page when looking at it layout the point using lorem Ipsum is that it has a more-or-less normal distribution lette as opposed to using  making it look like readable english, many desktop publishing packages and web page now editors."
+                }
+            ]
+        },
+
+        {
+            "id": "home-welcome-section",
+            "section": "welcome-section",
+            "section_title": {
+                "showDescription": false,
+                "align": "center",
+                "heading": "YOU ARE MOST WELCOME IN GAMING WORLD.",
+                "description": "When unknown printer took type and scrambled it to make type specimen book centuries,"
+            },
+            "items": [
+                {
+                    "id": "features-1",
+                    "headings": [
+                        {
+                            "level": "h3",
+                            "content": "LIVE STREAMING"
+                        }
+                    ],
+                    "images": [
+                        {
+                            "src": "../../data/images/features/gaming-world1.webp",
+                            "alt": "LIVE STREAMING"
+                        },
+                        {
+                            "src": "../../data/images/features/gaming-world-bg1.webp",
+                            "alt": "LIVE STREAMING"
+                        }
+                    ],
+                    "description": "Broadcast yourself and play games to a live audience online,"
+                },
+                {
+                    "id": "features-2",
+                    "headings": [
+                        {
+                            "level": "h3",
+                            "content": "GAME NEWS"
+                        }
+                    ],
+                    "images": [
+                        {
+                            "src": "../../data/images/features/gaming-world2.webp",
+                            "alt": "GAME NEWS"
+                        },
+                        {
+                            "src": "../../data/images/features/gaming-world-bg2.webp",
+                            "alt": "LIVE STREAMING"
+                        }
+                    ],
+                    "description": "Read the most authoritative, up-to-date news and headlines from our video games and entertainment industry,"
+                },
+                {
+                    "id": "features-3",
+                    "headings": [
+                        {
+                            "level": "h3",
+                            "content": "GAME TOURNAMENTS"
+                        }
+                    ],
+                    "images": [
+                        {
+                            "src": "../../data/images/features/gaming-world3.webp",
+                            "alt": "GAME TOURNAMENTS"
+                        },
+                        {
+                            "src": "../../data/images/features/gaming-world-bg3.webp",
+                            "alt": "LIVE STREAMING"
+                        }
+                    ],
+                    "description": "On Repeat you can play in an unlimited number of tournaments, any time, for any game. Join our tournaments and win BUSD with your skills!,"
+                }
+            ]
+        },
+        
+        {
+            "id": "home-funfact-section",
+            "section": "funfact-section",
+            "items": [
+            ]
+        },
+        {
+            "id": "home-populer-games-section",
+            "section": "populer-games-section",
+            "section_title": {
+                "showDescription": true,
+                "align": "center",
+                "heading": "POPULAR GAME",
+                "description": "When unknown printer took type and scrambled it to make type specimen book centuries,"
+            }
+        },
+       
+        {
+            "id": "home-latest-section",
+            "section": "latest-section",
+            "section_title": {
+                "showDescription": true,
+                "align": "center",
+                "heading": "LATEST BLOG",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna"
+            }
+        }
+    ]
+}
